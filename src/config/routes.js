@@ -1,4 +1,4 @@
-import Home from '../pages/Home';
+import HomePage from '../components/pages/HomePage';
 import NotFound from '../pages/NotFound';
 
 export const routes = {
@@ -7,7 +7,7 @@ export const routes = {
     label: 'Tasks',
     path: '/tasks',
     icon: 'CheckSquare',
-    component: Home
+    component: HomePage
   }
 };
 
