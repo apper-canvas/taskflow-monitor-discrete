@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly performance metrics and prepare executive summary",
+    "completed": false,
+    "category": "work",
+    "priority": "high",
+    "dueDate": "2024-01-15",
+    "createdAt": "2024-01-10T08:30:00.000Z",
+    "archived": false
+  },
+  {
+    "id": "2",
+    "title": "Schedule annual health checkup appointment",
+    "completed": false,
+    "category": "health",
+    "priority": "medium",
+    "dueDate": "2024-01-20",
+    "createdAt": "2024-01-09T14:15:00.000Z",
+    "archived": false
+  },
+  {
+    "id": "3",
+    "title": "Purchase birthday gift for Sarah and wrap it",
+    "completed": true,
+    "category": "shopping",
+    "priority": "medium",
+    "dueDate": "2024-01-12",
+    "createdAt": "2024-01-08T10:45:00.000Z",
+    "archived": false
+  },
+  {
+    "id": "4",
+    "title": "Update investment portfolio and rebalance allocations",
+    "completed": false,
+    "category": "finance",
+    "priority": "high",
+    "dueDate": null,
+    "createdAt": "2024-01-07T16:20:00.000Z",
+    "archived": false
+  },
+  {
+    "id": "5",
+    "title": "Organize digital photos from last year's vacation",
+    "completed": false,
+    "category": "personal",
+    "priority": "low",
+    "dueDate": null,
+    "createdAt": "2024-01-06T11:30:00.000Z",
+    "archived": false
+  },
+  {
+    "id": "6",
+    "title": "Prepare presentation for client meeting next week",
+    "completed": false,
+    "category": "work",
+    "priority": "high",
+    "dueDate": "2024-01-18",
+    "createdAt": "2024-01-11T09:15:00.000Z",
+    "archived": false
+  },
+  {
+    "id": "7",
+    "title": "Buy groceries for dinner party on Friday",
+    "completed": false,
+    "category": "shopping",
+    "priority": "medium",
+    "dueDate": "2024-01-19",
+    "createdAt": "2024-01-11T13:45:00.000Z",
+    "archived": false
+  }
+]
